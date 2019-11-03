@@ -10,11 +10,6 @@ int main() {
 	int a, b;
 	scanf("%d", &a);
 	scanf("%d", &b);
-  
-  
-  
-  
-  
   // Fixed Do not edit anything here.
   printf("\nOUTPUT:\n");
   //@STUDENT: WRITE YOUR OUTPUT HERE:
@@ -24,16 +19,6 @@ int main() {
 	else{
 		printf("a<b"); //@STUDENT: EDIT THIS LINE TO HAVE DESIRED OUTPUT
 	}
-
-
-
-
-
-
-
-
-  
-  
   //--FIXED PART - DO NOT EDIT ANY THINGS HERE
   printf("\n");
   system ("pause");
